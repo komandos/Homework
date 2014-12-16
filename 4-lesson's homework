@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bootstrap examples</title>
+    <!-- Bootstrap -->
+    <link href="resources/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <script src="resources/jquery.js"></script>
+    <script src="resources/bootstrap/js/bootstrap.js"></script>
+</head>
+
+<body>
+
+<nav class="navbar-inverse navbar-fixed-top">
+<ul class="nav navbar-nav navbar-right navbar-form ">
+    <li>
+        <input type="password" class="navbar-nav navbar-form form-control" placeholder="Parol...">
+    </li>
+    <li>
+        <a href="#">Ezgu fikr</a>
+    </li>
+    <li>
+        <a href="#">Ezgu so'z</a>
+    </li>
+    <li>
+        <a href="#">Ezgu amal</a>
+    </li>
+</ul>
+</nav>
+
+
+<div class="container">
+                 <h1>/|/|/|/|/|/|/|/|/|/|/|/|/|/|/|/|</h1>
+                <h1> Dashboard </h1>
+
+    <table  class="table table-striped">
+ <div>     <h3>Section Title</h3>     </div>
+        <hr>
+              <thead>
+              <tr>
+                 <th> # </th>
+                  <th> Heaader </th>
+                  <th> Heaader </th>
+                  <th> Heaader </th>
+                  <th> Heaader </th>
+
+              </tr>
+              </thead>
+        <tbody>
+<tr>
+            <td> 1.001 </td>
+            <td>Lorem</td>
+            <td>ipsum</td>
+            <td>dolor</td>
+            <td>sit</td>
+
+</tr>
+<tr>
+            <td>1.002</td>
+            <td>amet</td>
+            <td>yevro</td>
+            <td>Yen</td>
+            <td>so'm</td>
+</tr>
+
+<tr>
+            <td>1.003</td>
+            <td>Jama</td>
+            <td>eng</td>
+            <td>zo'r</td>
+            <td>dasturchi</td>
+</tr>
+<tr>
+            <td>1.003</td>
+            <td>Komandos</td>
+            <td>eng_zo'r</td>
+            <td>nickname</td>
+            <td>hisoblanadi!</td>
+</tr>
+<tr>
+            <td>1.004</td>
+            <td>Programmist</td>
+            <td>Jama</td>
+            <td>TATU da</td>
+            <td>yagona !</td>
+</tr>
+<tr>
+    <td>1.005</td>
+    <td>Visualizatsiya</td>
+    <td>eng</td>
+    <td>oliy</td>
+    <td>qurol !!!</td>
+</tr>
+        </tbody>
+
+    </table>
+
+
+                <h2 class="text-center">TATU Urganch Filiali talabasi</h2>
+
+                <h3 class="text-center">
+                Men Sattarov Jamshid Xorazm Viloyati Bog'ot Tumani Beshariq qishlog'ida tug'ilganman.
+                    Oilada 6 kishimiz. Men Unverisitetga kirish uchun katta mexnat qildim.
+                </h3>
+                        <button class=" btn btn-primary center-block" >
+                        Bajardim - tushundim
+                        </button>
+
+
+
+                            <gurring class="row">
+                                <h4 class="col-md-4 text-danger">
+                                    <p>Har kun 15 soatlik mehnat samarisini bermay qolmadi.
+                                    hayotda muaffaqiyat qozonish uchun harakat qilish insonga
+                                    hos hususiyat. Eshitdim - unutdim , ko'rdim - eslab qoldim ,
+                                    bajardim - tushundim !</p>
+                                    <button class="btn btn-primary">
+                                        Birinchi qadam
+                                    </button>
+                                </h4>
+                                <h4 class="col-md-4 text-muted">
+                                    <p>
+                                        Dunyoda faqat ilon qoqilmaydi. Eshak egasinI tepmasligi
+                                        uchun unga eshshakligi aytmaslik kerak.
+                                        Ojiz bo'lsang Orzu qil , lekin Kuchli bo'lsang
+                                        maqsad sari intil
+                                    </p>
+                                    <button class="btn btn-success"> Ko'proq...</button>
+                                </h4>
+                             <h4 class="col-md-4 text-primary">
+                                 <p>
+                                     Hamisha hech kim hech qachon qilishga jur'ati yetmagan ishlarni
+                                     oldinga maqsad qilib qo'yish kerak.Muhimligi kerak
+                                     emas , kerakligi - muhim.Birinchi qadamni qo'yish
+                                     ishning 50% ini qilish bilan teng !
+                                 </p>
+                                 <button class="btn btn-info"> Faqat o'qing... </button>
+
+                             </h4>
+                            </gurring>
+
+ </div>
+</body>
+</html>
